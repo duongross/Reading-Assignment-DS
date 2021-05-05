@@ -1,1 +1,7 @@
-# TCP-IP_Sockets-Summarize
+## Reading Assignment for Distributed System Course.
+
+This is a compulsory object for Distributed System Course at VGU.
+
+### Book:
+- Operating System Concepts-Wiley (2018)
+- TCP-IP Sockets in Java. Practical Guide for Programmers
